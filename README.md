@@ -74,9 +74,9 @@ Typical steps inside the notebook:
 
 
 The Amazon rainforest, the largest rainforest on Earth, is shrinking at an alarming rate due to deforestation caused by human activities like logging, agriculture, and mining...
-Generated Summary:
-
+- Generated Summary:
 - output :
+
 The Amazon rainforest is rapidly shrinking due to human-driven deforestation.
 ---
 ## 🔍 Example Inference Code
